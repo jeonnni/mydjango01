@@ -1,0 +1,16 @@
+# Python 자동으로 생성하는 캐시 파일
+__pycache__
+
+# Django 기본 SQLite DB
+db.sqlite3
+
+# macOS 자동으로 만드는 파일
+.DS_Store
+
+# collectstatic으로 생성되는 정적 파일과 업로드 파일
+/static
+/media
+
+# 가상환경
+venv
+.venv
